@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author fleek_kowshik
+ * @author Chilukuri
  */
 public class EditJPanel extends javax.swing.JPanel {
 

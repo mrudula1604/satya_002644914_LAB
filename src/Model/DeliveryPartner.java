@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author fleek_kowshik
+ * @author Chilukuri
  */
 public class DeliveryPartner {
     int packageId;

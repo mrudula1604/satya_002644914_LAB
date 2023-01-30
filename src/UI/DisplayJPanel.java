@@ -10,7 +10,7 @@ import Model.Product;
 
 /**
  *
- * @author fleek_kowshik
+ * @author Chilukuri
  */
 public class DisplayJPanel extends javax.swing.JPanel {
 

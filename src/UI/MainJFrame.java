@@ -8,7 +8,7 @@ import Model.DeliveryPartner;
 
 /**
  *
- * @author fleek_kowshik
+ * @author Chilukuri
  */
 public class MainJFrame extends javax.swing.JFrame {
 
